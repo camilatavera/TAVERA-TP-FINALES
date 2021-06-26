@@ -1,0 +1,416 @@
+id_venta,nombre_pelicula,dia,horario,sala,cantidad_entradas
+1,Mapa,3,13:07,4,27
+2,Like Someone in Love,4,13:06,1,11
+3,Vic Flo ont vu un ours,4,0:32,3,18
+4,Al fin llego el amor,2,23:22,4,16
+5,Ricardo Bíor,5,5:29,4,2
+6,Corea,5,7:51,2,30
+7,Joven y alocada,5,19:16,4,12
+8,Dad,1,17:52,2,23
+9,The Scorsese Machine,1,13:14,4,2
+10,Carbon,3,7:56,1,3
+11,Orléans,1,7:34,3,20
+12,Men in the Ring,3,15:43,3,31
+13,El loro y el cisne,6,20:25,1,3
+14,Il Gemello,1,14:06,1,11
+15,John Cassavetes,1,14:44,3,12
+16,La banda que buscó el sonido debajo,2,16:04,5,10
+17,Un sueÃ±o  recurrente,4,6:15,2,7
+18,O anjo nasceu,6,4:56,3,26
+19,Citadel,5,14:54,2,38
+20,Tale of Cinema,6,9:33,1,14
+21,A Story for the Modlins,3,20:10,1,22
+22,Lazos perversos,3,9:56,3,4
+23,Visiting our neighbours,5,21:22,3,4
+24,AB,6,11:29,5,28
+25,Bob Wilson's Life & Death of Marina Abramovic,6,21:57,1,29
+26,Hahaha,4,17:02,1,15
+27,Tchoupitoulas,2,21:32,1,12
+28,Post Tenebras Lux,3,16:25,2,3
+29,No olvidar,4,9:53,1,3
+30,The Dark Side of the Moon,2,18:07,4,8
+31,Berlin Horse,1,4:53,5,16
+32,Caspinchango,2,23:36,4,1
+33,Rodencia y el diente  de la princesa,2,7:43,4,4
+34,Z.U.G.A.,4,14:55,1,4
+35,Moon Man,2,23:39,1,6
+36,Concrete forms,5,18:58,5,39
+37,Noche,6,20:52,4,6
+38,Nyosha,2,4:05,1,25
+39,Hahaha,5,18:51,3,26
+40,Family Holiday,5,15:40,4,20
+41,AÃ±os de calle,6,6:01,1,8
+42,El estudiante,4,2:17,1,30
+43,The ABCs of Death,2,14:21,1,30
+44,Nyosha,6,22:28,1,29
+45,Gebo et l'ombre,5,18:38,3,13
+46,Hawaii,1,19:52,2,22
+47,Metamorphosen,3,12:44,3,34
+48,O gigante da América,3,19:42,4,20
+49,Na vibración,5,5:02,2,31
+50,Meeting Leila,2,23:08,3,19
+51,David Lynch: Don't Look at Me,2,16:15,4,22
+52,Aguamadre,5,15:05,5,26
+53,Like Someone in Love,2,8:43,3,8
+54,Volar,5,7:43,1,10
+55,SueÃ±os de hielo,2,3:29,1,25
+56,Tres cortos isralí­es,3,8:26,1,9
+57,Taller de flamenco,2,4:37,2,38
+58,The Silent Star,1,9:27,5,35
+59,Au bout du conte,6,1:07,4,7
+60,Dad,1,15:08,3,1
+61,La gente del rí­o,5,9:42,3,6
+62,salvata dai filibustieri,2,12:11,1,34
+63,Ovos de dinossauro  na sala de estar,2,15:44,3,33
+64,Chiri/Trace,1,12:20,5,30
+65,Moon Man,1,21:15,1,3
+66,She Performs!,4,12:26,5,2
+67,El gran simulador,5,11:44,3,26
+68,Katzenhimmel,2,21:56,3,20
+69,Mouth Wide Open,3,14:06,3,8
+70,Cortos de Kurdwin Ayub,4,20:26,5,4
+71,MontaÃ±a en sombra,4,9:01,3,5
+72,La discoteca del amor,5,9:15,1,35
+73,Monuments,1,16:00,5,5
+74,More Than Honey,6,9:11,5,31
+75,In Another Country,2,13:39,4,22
+76,Bob Wilson's Life & Death of Marina Abramovic,2,19:39,4,7
+77,El Olimpo vací­o,6,16:49,2,13
+78,As ondas,4,23:27,2,22
+79,MontaÃ±a en sombra,3,10:20,5,16
+80,Kiltro,5,4:47,5,16
+81,Woman Is the Future of Man,6,6:45,2,5
+82,Hahaha,1,21:30,2,23
+83,De occulta philosophia,6,10:17,5,37
+84,Reconversí£o,1,5:10,1,1
+85,Hasenzahn,1,13:26,1,4
+86,Adele 1,2,1:03,2,30
+87,Chiri/Trace,5,12:14,1,14
+88,Metamorphosen,2,1:17,1,11
+89,Radiografí­a del desierto,4,0:29,2,36
+90,O som ao redor,1,14:21,4,9
+91,El último asado,3,1:27,2,33
+92,El gran simulador,1,9:25,5,37
+93,A erva do rato,2,13:35,2,32
+94,La república perdida,3,8:24,2,2
+95,Beatriz Portinari. Un documental sobre  Aurora Venturini,3,15:25,1,9
+96,The Punk Syndrome,1,11:44,1,23
+97,Lazos perversos,4,14:15,4,3
+98,El dí­a trajo la oscuridad,2,0:26,2,25
+99,Meeting Leila,4,20:47,4,36
+100,Paul Williams Still Alive,4,1:01,1,33
+101,Winter,3,7:57,2,26
+102,Kiltro,3,17:18,1,33
+103,La playa del amor,3,22:08,2,12
+104,Anina,2,21:55,1,13
+105,Bernadette,2,0:12,3,13
+106,In Search of Blind Joe Death - The Saga of John Fahey,4,6:24,2,20
+107,My First Mountain,1,13:45,5,39
+108,Woman Is the Future of Man,1,20:52,2,31
+109,Al fin llegó el amor,4,20:07,3,40
+110,The Day a Pig Fell into a Well,6,15:15,4,12
+111,Ovos de dinossauro  na sala de estar,6,15:28,2,1
+112,Death Metal Angola,4,10:58,4,7
+113,Woman Is the Future of Man,4,12:28,2,37
+114,Nyosha,2,13:56,4,29
+115,Museum Hours,5,1:13,1,20
+116,Deshora,1,22:47,1,10
+117,Rodencia y el diente  de la princesa,5,11:36,3,14
+118,Much Ado About Nothing,4,1:28,1,35
+119,Mekong Hotel,1,1:06,3,27
+120,Las calles de mi ciudad,5,21:12,1,19
+121,Marina Abramovic: The Artist Is Present,3,23:07,5,8
+122,Mekong Hotel,5,0:50,1,24
+123,Antonio Gil,2,0:13,5,16
+124,Neón,3,11:59,1,23
+125,Family Holiday,6,15:09,5,18
+126,Peaches Does Herself,1,15:17,5,20
+127,Falls Burns Malone Fiddles,2,1:45,3,20
+128,Imágenes Paganas,5,0:35,5,12
+129,Lazos perversos,5,14:49,1,40
+130,Joyful Girl,4,2:33,3,5
+131,The Town of Whales,2,10:54,3,10
+132,VidaExtra,6,7:22,5,40
+133,La casa del sol naciente,3,0:55,2,20
+134,Nyosha,1,0:22,1,23
+135,Disparos,5,1:49,3,13
+136,La mosca,5,9:18,2,6
+137,El aÃ±o pasado en Mardelplá,6,23:52,1,31
+138,Paisaje-Duración  (Carretera / Rocas),1,16:40,2,17
+139,Paisaje-Duración  (Carretera / Rocas),6,14:36,4,7
+140,Mujer lobo,6,21:56,1,39
+141,Mapa,2,1:13,2,26
+142,TPB AFK: The Pirate Bay Away From Keyboard,4,8:36,3,20
+143,Sí¼den,5,14:21,5,3
+144,Chicama,3,6:35,4,39
+145,Tan de repente,6,2:48,5,10
+146,Chiri/Trace,4,23:18,5,8
+147,Habi,1,13:09,1,19
+148,Jimmy's End,5,5:11,3,28
+149,Avanti popolo,5,15:17,5,20
+150,Trapero x 3,2,23:20,4,11
+151,Ouvir o rio: Uma escultura sonora de Cildo Meireles,1,5:01,2,7
+152,Zona mutante,3,0:49,1,13
+153,Eu receberia as piores notí­cias dos seus lindos lábios,6,14:30,2,21
+154,El árbol,1,15:01,5,37
+155,Oki's Movie,2,18:42,4,34
+156,Le Monde est comme í§a,6,5:05,2,26
+157,Las calles de mi ciudad,5,1:37,3,7
+158,A última vez que vi Macau,5,23:10,4,27
+159,Brás Cubas,5,15:30,1,30
+160,Sinais de serenidade por coisas sem sentido,3,13:03,5,7
+161,La mamá de mi abuela le contó a mi abuela,6,23:10,3,5
+162,Viola,4,19:18,1,39
+163,La banda que buscó el sonido debajo,2,18:52,2,17
+164,Lugares comunes,1,18:00,3,38
+165,Tanta agua,6,20:00,5,17
+166,Hijas del rí­o,6,11:03,3,36
+167,Sleepless Nights Stories,2,7:46,3,37
+168,Enjoy Yourself,1,14:52,1,13
+169,El club de los cinco,4,9:11,1,28
+170,Ekpyrosis,6,21:06,1,11
+171,Ears Shut Tight,3,3:21,4,11
+172,La república perdida,2,19:56,3,34
+173,El Olimpo vací­o,2,6:36,4,2
+174,Here's looking at you,6,7:14,4,21
+175,The Scorsese Machine,1,18:43,5,36
+176,I Catch a Terrible Cat,1,20:01,3,38
+177,Langsam Reiten Cowboy,1,16:25,1,10
+178,Reconversí£o,2,14:49,2,27
+179,Oh Yeah,3,5:10,1,30
+180,La mamá de mi abuela le contó a mi abuela,5,13:57,1,2
+181,Concrete forms,1,15:50,1,20
+182,La libertad,6,20:35,4,34
+183,Doméstica,5,1:27,2,8
+184,El rey de EspaÃ±a,4,18:23,3,16
+185,Katzenhimmel,4,7:40,5,39
+186,El universo de Escher,1,8:04,2,22
+187,De occulta philosophia,3,21:29,2,16
+188,La banda que buscó el sonido debajo,6,2:47,5,7
+189,Tan de repente,4,11:34,2,29
+190,La toma,1,12:33,1,17
+191,Kiltro,6,7:40,5,11
+192,La guerra dei vulcani,3,14:28,3,5
+193,Revolución tóxica,1,5:46,1,15
+194,El estudiante,6,23:20,4,20
+195,Anina,1,14:26,1,13
+196,Roma,2,4:37,1,4
+197,Velleza,2,11:59,3,23
+198,Rodencia y el diente  de la princesa,3,9:35,5,17
+199,El corazón del roble,2,20:44,1,33
+200,Dias de Nietzsche em Turim,4,18:29,4,6
+201,Nyosha,5,14:55,2,9
+202,Una familia gay,2,11:42,5,7
+203,Fogo,3,18:18,5,2
+204,Make It New John,2,14:11,1,24
+205,Charlas de Taj Mahal,2,16:45,2,11
+206,Vamps,2,2:19,1,12
+207,Sinais de serenidade por coisas sem sentido,2,20:18,1,33
+208,Tráiganme la cabeza de la mujer metralleta,2,15:16,3,34
+209,The Shine of Day,3,16:29,1,23
+210,Mandrill,4,0:28,5,3
+211,Na vibración,1,16:12,2,25
+212,Neón,1,15:03,2,17
+213,Here's looking at you,2,10:59,3,31
+214,Tango de una noche  de verano,6,10:27,2,9
+215,Museum Hours,3,13:27,5,7
+216,Revolución tóxica,1,17:17,1,23
+217,La playa de México,1,2:54,5,16
+218,Taller de flamenco,2,2:08,5,24
+219,Romance Joe,2,15:46,5,5
+220,La mosca,5,7:16,5,8
+221,Barroco,6,2:06,1,20
+222,Call Girl,1,9:27,1,9
+223,Alunizar,3,23:28,1,36
+224,No olvidar,5,16:20,5,9
+225,A Story for the Modlins,2,7:15,3,33
+226,More Than Honey,2,4:27,4,34
+227,Butoh,6,20:37,2,9
+228,The Punk Syndrome,6,19:08,3,10
+229,Dreileben -  Don't Follow Me Around,6,1:04,2,10
+230,War Matador,6,22:33,2,15
+231,Mapa,6,1:27,5,4
+232,Al final: La última carta,6,23:46,1,15
+233,Joven y alocada,3,16:32,3,26
+234,Nobody's Daughter Haewon,3,13:13,2,19
+235,Tráiganme la cabeza de la mujer metralleta,2,14:34,4,35
+236,Martí­n (Hache),3,7:53,5,2
+237,My Afghanistan - Life in the Forbidden Zone,6,7:20,1,1
+238,Langsam Reiten Cowboy,3,21:33,3,35
+239,Tale of Cinema,1,2:23,3,2
+240,Silvia Prieto,2,11:29,2,17
+241,Hawaii,5,1:48,4,21
+242,Conversation avec George Cukor,2,6:31,1,2
+243,Lugares comunes,1,19:34,1,29
+244,Antonio Gil,5,20:18,4,26
+245,A Little Suicide,1,11:18,1,23
+246,Manhí£ de Santo António,5,6:40,5,19
+247,Su re,6,12:58,4,18
+248,In the Dust of the Stars,1,22:21,1,25
+249,Roma,6,13:20,1,32
+250,Miramar,4,4:41,3,21
+251,Woolworths Choir,6,15:37,3,4
+252,Alpine Saga,2,21:13,1,33
+253,la extranjera,1,18:47,5,7
+254,Bloody Daughter,4,18:46,3,14
+255,Jack and Diane,1,20:41,5,38
+256,Death Metal Angola,1,13:46,3,21
+257,Paradise:Love,2,20:35,3,31
+258,Harbour of Hope,5,21:39,1,18
+259,la extranjera,1,0:58,3,5
+260,Mandrill,6,21:22,1,13
+261,Zona mutante,5,4:08,2,8
+262,Falls Burns Malone Fiddles,1,14:50,4,19
+263,Estación Zombi,2,2:18,4,16
+264,A Little Suicide,1,16:30,5,40
+265,Aprí¨s mai,1,14:45,1,36
+266,My Afghanistan - Life in the Forbidden Zone,6,8:36,1,7
+267,Men in the Ring,6,13:14,4,25
+268,The Day He Arrives,4,9:16,5,32
+269,David Lynch: Don't Look at Me,5,15:06,2,31
+270,Qué historia es ésta y cuál es su final,4,22:38,1,40
+271,Lazos perversos,5,20:04,3,8
+272,In Another Country,3,22:07,5,15
+273,Three Sisters,5,21:03,5,38
+274,Jerry Lewis (partie 1),2,20:25,3,3
+275,Paul Williams Still Alive,3,17:45,3,39
+276,El otro dí­a,1,7:04,5,31
+277,Ingrid Caven: Musique et voix,5,7:46,1,27
+278,Sobreviven,2,18:04,1,19
+279,Zona mutante,2,21:25,3,3
+280,Harbour of Hope,2,3:07,1,22
+281,Un sueÃ±o  recurrente,4,23:06,2,2
+282,Something from Nothing: The Art of Rap,4,17:15,1,11
+283,MontaÃ±a en sombra,2,8:12,2,11
+284,Les Coquillettes,6,10:03,3,18
+285,Arbeit,6,13:56,1,31
+286,The Shine of Day,5,8:51,3,19
+287,Conversation avec George Cukor,5,17:25,1,4
+288,As ondas,2,10:21,1,8
+289,Langsam Reiten Cowboy,6,7:37,4,5
+290,Historias extraordinarias,1,1:04,1,8
+291,In awe,5,17:36,1,20
+292,Tchoupitoulas,3,20:30,4,16
+293,De occulta philosophia,1,21:43,1,16
+294,The End,3,1:45,1,36
+295,El último asado,3,6:52,3,19
+296,Go Away!,1,20:51,5,5
+297,Marco Macaco,2,17:47,2,15
+298,Marina Abramovic: The Artist Is Present,4,16:01,4,15
+299,Habi,5,21:08,5,13
+300,Tráiganme la cabeza de la mujer metralleta,2,23:58,1,1
+301,Mundo Grúa,6,6:26,5,30
+302,Anina,4,8:20,5,14
+303,Déjeuner chez Gertrude Stein,5,21:28,2,31
+304,El dí­a trajo la oscuridad,4,23:56,4,5
+305,Here's looking at you,2,7:48,2,23
+306,A Hijacking,6,22:19,2,19
+307,Jerry Lewis (partie 1),4,19:29,2,31
+308,Paisaje-Duración  (Carretera / Rocas),4,0:47,2,2
+309,Romance Joe,1,0:11,5,38
+310,Far from Afghanistan,3,11:30,2,40
+311,El rey de EspaÃ±a,6,19:38,5,39
+312,La república perdida,1,15:41,5,13
+313,London Suite,3,6:14,3,17
+314,A Study of Relationships Between Inner and Outer Space,3,13:10,3,9
+315,the Luddite Cropper and  the Deluded Followers of  Joanna Southcott,1,10:04,4,24
+316,El amor (primera parte),3,19:35,2,19
+317,El universo de Escher,5,3:54,5,40
+318,Metamorphosen,5,0:29,5,9
+319,Jean Renoir le patron:  La rí¨gle et l'exception,4,0:37,5,17
+320,La Paz,1,1:13,2,1
+321,Dear Nonna: A Film Letter,5,7:25,5,37
+322,The Act of Killing,2,10:11,5,12
+323,Como me da la gana,3,7:36,5,6
+324,Como me da la gana,3,6:57,5,31
+325,Elena,2,0:59,3,37
+326,Like Someone in Love,5,1:19,2,13
+327,Algo más,4,18:20,1,7
+328,Bob Wilson's Life & Death of Marina Abramovic,3,20:26,5,13
+329,Un dí­a,6,19:02,5,10
+330,Nyosha,5,19:32,4,17
+331,Materia oscura,6,22:39,4,25
+332,Mapa,2,2:27,3,22
+333,salvata dai filibustieri,3,7:25,3,16
+334,Turning Gate,5,16:52,2,8
+335,Misterio,4,0:30,1,32
+336,Una familia gay,4,6:41,2,18
+337,Summer Holiday (Vaginale VII),1,13:44,2,10
+338,Avanti popolo,6,11:03,4,3
+339,The Scorsese Machine,2,6:17,5,27
+340,Vers Madrid - The Burning Bright! (Scenes from the Class Struggle and the Revolution),3,8:19,2,37
+341,Yo y Maru 2012,5,8:20,1,28
+342,Sinais de serenidade por coisas sem sentido,1,22:42,5,35
+343,Habi,3,7:00,5,10
+344,Citadel,5,22:04,1,30
+345,Un lugar en el mundo,5,15:14,3,29
+346,Zona mutante,2,18:22,2,10
+347,Los tentados,2,7:45,1,30
+348,I Catch a Terrible Cat,2,8:40,2,14
+349,Paradise:Love,3,1:39,5,36
+350,Imaginario,2,10:30,5,35
+351,Paradise:Love,4,19:11,5,9
+352,La playa del amor,6,2:30,2,34
+353,Remitente:  Una carta visual,4,22:12,5,13
+354,El diario de Agustí­n,1,1:01,5,38
+355,Ayer Buenos Aires hoy,6,23:51,5,35
+356,Los últimos dí­as de la ví­ctima,1,2:08,2,12
+357,Il Gemello,3,21:28,2,28
+358,Summer Holiday (Vaginale VII),3,5:47,5,7
+359,Mouth Wide Open,4,4:58,1,30
+360,Plaga zombie,5,11:40,2,29
+361,Concrete forms,1,21:44,5,12
+362,Bonanza,6,3:40,3,4
+363,A Hijacking,4,16:53,4,20
+364,David Lynch: Don't Look at Me,4,8:52,5,1
+365,Mandrill,3,1:24,4,1
+366,Mundo Grúa,3,22:08,2,38
+367,Outrage Beyond,3,11:42,3,20
+368,Shut Up and Play the Hits,3,6:37,2,31
+369,Twenty Little Films,3,6:30,5,34
+370,The Capsule,1,2:12,3,17
+371,Corea,6,22:04,5,32
+372,Neón,1,15:36,3,6
+373,Go Away!,6,16:06,3,7
+374,Corea,1,13:07,2,9
+375,Starlet,4,23:03,4,5
+376,Doméstica,2,15:54,2,9
+377,Rodencia y el diente  de la princesa,2,0:57,2,23
+378,Inori,5,13:55,1,30
+379,Estación Zombi,6,23:55,5,17
+380,Corea,6,10:32,5,21
+381,More Than Honey,1,21:36,4,9
+382,Parapalos,6,6:56,1,39
+383,The Beautiful + The Sublime,5,3:12,1,21
+384,Hábitat,4,8:40,2,18
+385,Jean Renoir le patron:  La rí¨gle et l'exception,6,14:15,5,22
+386,Il Gemello,4,22:37,1,8
+387,Aprí¨s mai,4,22:31,2,21
+388,De occulta philosophia,1,2:54,5,34
+389,Jean Renoir le patron:  La rí¨gle et l'exception,2,12:31,4,40
+390,Concrete forms,1,2:37,5,18
+391,Imágenes paganas,1,17:01,1,38
+392,Kidd Life,2,10:16,3,30
+393,Jean Renoir le patron:  La rí¨gle et l'exception,4,1:24,5,40
+394,Disparos,6,21:17,4,29
+395,Vamps,3,4:48,4,23
+396,Domingos,5,4:46,3,23
+397,Manhí£ de Santo António,3,1:26,4,19
+398,Soy mucho mejor que vos,1,23:11,5,11
+399,Brás Cubas,6,19:42,3,40
+400,A World Not Ours,2,15:21,2,17
+401,Katzenjammer,3,13:10,2,25
+402,Modelo 73,4,6:34,1,22
+403,Yo y Maru 2012,3,15:41,2,38
+404,Sofia's Last Ambulance,3,5:35,3,31
+405,Tango de una noche  de verano,5,22:06,2,35
+406,Cuéntame de Bí­a,3,1:34,2,26
+407,El universo de Escher,1,1:28,5,17
+408,VidaExtra,1,2:20,3,26
+409,Remitente:  Una carta visual,6,9:06,1,20
+410,Manhí£ de Santo António,6,10:22,2,12
+411,Fall and Rebirth of the Independent Record Shop,1,20:55,4,13
+412,Hannah Arendt,5,5:45,1,15
+413,Filme de amor,2,16:17,4,14
+414,El corazón del roble,5,2:00,3,25
+415,La mujer perseguida,5,22:17,5,5
